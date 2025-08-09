@@ -1,11 +1,11 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+# Procrastination_coaches 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Sathanam Kayil Undo
 
 
 ### Team Members
@@ -16,31 +16,27 @@
 Procrastination Coach is a fun and quirky chatbot that encourages users to procrastinate creatively with funny excuses and playful prompts. It turns wasting time into an entertaining experience while keeping track of how long you’ve avoided work.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Everyone is way too productive these days, leaving no time to master the fine art of procrastination. Our project solves this “problem” by giving people a fun excuse to delay work with style and humor!
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+We built a chatbot that cheerfully convinces you to put off your tasks with hilarious excuses, useless facts, and silly games—making procrastination feel like a full-time job!
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- Python, JavaScript, HTML, CSS
+- None (command-line Python app; optionally Flask or Express.js for web)
+- groq (for AI chatbot API)
+python-dotenv (for environment variables)
+- Git, GitHub, VS Code, Postman (for API testing
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+npm i
 
 # Run
-[commands]
+npm run dev
 
 ### Project Documentation
 For Software:
@@ -48,12 +44,18 @@ For Software:
 # Screenshots (Add at least 3)
 ![Screenshot1](Add screenshot 1 here with proper name)
 *Add caption explaining what this shows*
+<img width="1123" height="781" alt="Screenshot 2025-08-09 061210" src="https://github.com/user-attachments/assets/195ecc52-4369-496f-a37d-7a9bc2a73144" />
+
 
 ![Screenshot2](Add screenshot 2 here with proper name)
 *Add caption explaining what this shows*
+<img width="835" height="728" alt="Screenshot 2025-08-09 061228" src="https://github.com/user-attachments/assets/776b587d-4f4b-4f35-b586-e787c5d55554" />
+
 
 ![Screenshot3](Add screenshot 3 here with proper name)
 *Add caption explaining what this shows*
+<img width="845" height="776" alt="Screenshot 2025-08-09 061245" src="https://github.com/user-attachments/assets/f155b504-7792-4811-acb8-ed0f53e53738" />
+
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
@@ -83,13 +85,17 @@ For Hardware:
 [Add your demo video link here]
 *Explain what the video demonstrates*
 
+
+
+https://github.com/user-attachments/assets/400ae383-6e84-4582-a470-80e356a3bcd7
+
+
 # Additional Demos
-[Add any extra demo materials/links]
+https://procrastination.vercel.app/
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Diya Joy: worked on Front end
+- Ann Grace Justin: worked on back end
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
